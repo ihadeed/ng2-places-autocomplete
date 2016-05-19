@@ -1,0 +1,22 @@
+{
+  "name": "ng2-places-autocomplete",
+  "version": "1.0.0",
+  "description": "Angular2 Directive for Google Autocomplete. Needs the Places API JavaScript library to be present.",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihadeed/ng2-places-autocomplete.git"
+  },
+  "keywords": [
+    "angular2"
+  ],
+  "author": "Ibrahim Hadeed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ihadeed/ng2-places-autocomplete/issues"
+  },
+  "homepage": "https://github.com/ihadeed/ng2-places-autocomplete#readme"
+}
