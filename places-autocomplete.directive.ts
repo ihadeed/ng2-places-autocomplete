@@ -15,7 +15,7 @@ constructor(el: ElementRef){
 	this.autocomplete = new google.maps.places.Autocomplete(el.nativeElement);
 
 	google.maps.event.addListener(this.autocomplete, 'place_changed', () => {
-		this.placeChange.emite(this.autocomplete.getPlace());
+		this.placeChange.emit(this.autocomplete.getPlace());
 	});
 
 }
